@@ -19,7 +19,7 @@ Add the following to your `build.gradle` to use:
 ```
 
 ## Usage
-
+	
 #### 	Usage1.Base
 
 ```
