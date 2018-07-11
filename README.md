@@ -38,13 +38,13 @@ public class DemoFragment extends LazyFragment {
 
 ```
 public class DemoFragment extends LazyFragment {
-	//data loaded tag
-	private boolean isLoaded;
+    //data loaded tag
+    private boolean isLoaded;
 	
     @Override
     protected void getData() {
     	
-		if (!isLoaded){
+	if (!isLoaded){
             isLoaded = true;
             //load your data ↓
         }
