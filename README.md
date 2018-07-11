@@ -14,7 +14,7 @@ Add the following to your `build.gradle` to use:
 	}
 	
 	dependencies {
-	   implementation 'com.github.chenguandong:EasyLazyFragment:version-1.0.0'
+	   	implementation 'com.github.chenguandong:EasyLazyFragment:version-1.0.0'
 	}
 ```
 
