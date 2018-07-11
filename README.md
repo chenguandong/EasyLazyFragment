@@ -34,7 +34,7 @@ public class DemoFragment extends LazyFragment {
 }
 ```
 
-	#### 	Usage2.Loaded data once 
+#### 	Usage2.Loaded data once
 
 ```
 public class DemoFragment extends LazyFragment {
